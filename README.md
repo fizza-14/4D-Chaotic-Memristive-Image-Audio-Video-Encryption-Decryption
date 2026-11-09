@@ -23,10 +23,9 @@ The video implementation processes frames sequentially to control memory usage. 
 | `4D_Chaotic_Model_Image_Encryption_Decryption.ipynb` | Image encryption and decryption |
 | `4D_Chaotic_Model_Audio_Encryption_Decryption.ipynb` | Audio (PCM WAV) encryption and decryption |
 | `4D_Chaotic_Model_Video_Encryption_Decryption.ipynb` | Complete video frame and audio encryption and decryption |
-| `4D_Chaotic_Model_12_Tests_Image_Audio_Video_COMPLETE_VIDEO_FINAL.ipynb` | 12 statistical tests for each modality |
+| `4D_Chaotic_Model_12_Tests_Image_Audio_Video.ipynb` | 12 statistical tests for each modality |
 | `reports/` | Image, audio, video and combined statistical reports |
 | `Standard Testing Data/` | Sample image, audio and video used in experiments |
-| `outputs/` | Encrypted and decrypted media, graphs, histograms and verification results |
 
 ## 4D Chaotic Model
 
